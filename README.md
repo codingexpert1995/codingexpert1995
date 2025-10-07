@@ -1,10 +1,11 @@
-![Banner](/banner.png)
 
 # 👋 Hey, I'm [John Smith](https://codingexpert1995.github.io/) 👋
 
 I am a top-class FullStack developer I have in-depth knowledge of JavaScript and React/Vue concepts, excellent front-end coding skills, and a good understanding of progressive web applications, experience working on a complex project and have the ability to learn new technologies quickly.
 
 --- Just give me a chance to work with you. Trust me, if you hire me once, you will hire me again and again! Looking forward to a long term relationship. Best Regards
+
+![Banner](/banner.jpg)
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/838620835282812969)
 ![Instagram](https://skillicons.dev/icons?i=instagram)
