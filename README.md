@@ -7,9 +7,9 @@ I am a top-class FullStack developer I have in-depth knowledge of JavaScript and
 --- Just give me a chance to work with you. Trust me, if you hire me once, you will hire me again and again! Looking forward to a long term relationship. Best Regards
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/838620835282812969)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/bruh.darshan)
-[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/15748819/darshan-b)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/darshanb05)
+[![Instagram](https://skillicons.dev/icons?i=instagram)]
+[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)]
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]
 
 ## Skill Set
 
@@ -110,12 +110,35 @@ I am a top-class FullStack developer I have in-depth knowledge of JavaScript and
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=codingexpert1995&theme=juicyfresh&no-frame=true&row=1&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Dqrshan&theme=juicyfresh&no-frame=true&row=1&margin-w=8" />
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=codingexpert1995&show_icons=true&theme=github_dark" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingexpert1995&layout=compact&theme=github_dark" height="160" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=boinik-dev.boinik-dev" />
+<img align="right" src="https://img.shields.io/github/followers/goldmicky1210?label=Follow&style=social" />
+<h1 align="center"></h1>
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=codingexpert1995&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingexpert1995&layout=compact&theme=merko&count_private=true" />
+<img height="150px" /> 
+
+<br/>  
+
+## 𝑾𝒉𝒂𝒕 𝑪𝒂𝒏 𝑫𝒐
+
+<div>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+ 
+### Frontend Development
+<br />
+
+### Full Stack Development
+<br />
+
+### Database Management
+<br />
+
+### Blockchain & Smart Contract
+<br />
+
 </div>
 
 ---
