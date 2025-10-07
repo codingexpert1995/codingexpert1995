@@ -1,4 +1,4 @@
-![Banner](/assets/banner.png)
+![Banner](/banner.png)
 
 # 👋 Hey, I'm [John Smith](https://codingexpert1995.github.io/) 👋
 
@@ -7,9 +7,9 @@ I am a top-class FullStack developer I have in-depth knowledge of JavaScript and
 --- Just give me a chance to work with you. Trust me, if you hire me once, you will hire me again and again! Looking forward to a long term relationship. Best Regards
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/838620835282812969)
-[![Instagram](https://skillicons.dev/icons?i=instagram)]
-[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)]
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]
+![Instagram](https://skillicons.dev/icons?i=instagram)
+![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)
+![LinkedIn](https://skillicons.dev/icons?i=linkedin)
 
 ## Skill Set
 
