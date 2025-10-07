@@ -1,10 +1,17 @@
 
 # 👋 Hey, I'm [John Smith](https://codingexpert1995.github.io/) 👋
 
-I am a top-class FullStack developer I have in-depth knowledge of JavaScript and React/Vue concepts, excellent front-end coding skills, and a good understanding of progressive web applications, experience working on a complex project and have the ability to learn new technologies quickly.
+I’m a full-stack developer with 7+ years of hands-on experience in building scalable web applications, eCommerce platforms, automation bots, and blockchain-based systems.
+ I specialize in developing end-to-end solutions that are fast, secure, and maintainable — from UI/UX to backend APIs and infrastructure.
+I've worked extensively with modern JavaScript/TypeScript stacks, including React, Next.js, Node.js, and Express. 
+On the backend, I build RESTful and GraphQL services, design scalable architectures, and deploy to cloud platforms like AWS, Vercel, and Dockerized environments.
+In eCommerce, I’ve delivered custom storefronts, payment gateway integrations (Stripe, PayPal), and product automation for platforms like Shopify and WooCommerce.
+I’ve also developed bots for Telegram, Discord, and WhatsApp to automate customer support, trading, and blockchain interaction.
+In the Web3 space, I write and audit smart contracts in Solidity, build dApps using ethers.js/Web3.js, and integrate with DeFi protocols, NFTs, and Layer 2 solutions.
 
---- Just give me a chance to work with you. Trust me, if you hire me once, you will hire me again and again! Looking forward to a long term relationship. Best Regards
-
+Just give me a chance to work with you. Trust me, if you hire me once, you will hire me again and again!
+Looking forward to a long term relationship.
+Best Regards
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/838620835282812969)
 ![Instagram](https://skillicons.dev/icons?i=instagram)
