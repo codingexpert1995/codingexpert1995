@@ -13,7 +13,7 @@ Just give me a chance to work with you. Trust me, if you hire me once, you will 
 Looking forward to a long term relationship.
 Best Regards 
 
-[![Discord](https://skillicons.dev/icons?i=discord)]
+![Discord](https://skillicons.dev/icons?i=discord)
 ![Instagram](https://skillicons.dev/icons?i=instagram)
 ![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)
 ![LinkedIn](https://skillicons.dev/icons?i=linkedin)
@@ -84,12 +84,12 @@ Best Regards
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingexpert1995&layout=compact&theme=github_dark" height="160" />
 <img src="https://github-readme-stats.vercel.app/api?username=codingexpert1995&show_icons=true&theme=github_dark" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingexpert1995&layout=compact&theme=github_dark" height="160" />
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=codingexpert1995&theme=dark" />
+<img src="https://streak-stats.demolab.com/?user=codingexpert1995" />
 </div>
 
 ### Database Management
