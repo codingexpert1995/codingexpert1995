@@ -1,5 +1,5 @@
 
-# 👋 Hey, I'm [John Smith](https://codingexpert1995.github.io/) 👋
+# 👋 Hey, I'm [John Smith](https://johnsmith1995.netlify.app/) 👋
 
 I’m a full-stack developer with 7+ years of hands-on experience in building scalable web applications, eCommerce platforms, automation bots, and blockchain-based systems.
  I specialize in developing end-to-end solutions that are fast, secure, and maintainable — from UI/UX to backend APIs and infrastructure.
@@ -13,7 +13,7 @@ Just give me a chance to work with you. Trust me, if you hire me once, you will 
 Looking forward to a long term relationship.
 Best Regards 
 
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/838620835282812969)
+[![Discord](https://skillicons.dev/icons?i=discord)]
 ![Instagram](https://skillicons.dev/icons?i=instagram)
 ![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)
 ![LinkedIn](https://skillicons.dev/icons?i=linkedin)
@@ -84,8 +84,8 @@ Best Regards
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=codingexpert1995&show_icons=true&theme=github_dark" height="160" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingexpert1995&layout=compact&theme=github_dark" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=codingexpert1995&show_icons=true&theme=github_dark" height="160" />
 </div>
 
 <div align="center">
