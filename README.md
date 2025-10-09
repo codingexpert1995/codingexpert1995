@@ -89,7 +89,7 @@ Best Regards
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=codingexpert1995&theme=dark" />
+<img src="https://streak-stats.demolab.com/?user=codingexpert1995" />
 </div>
 
 ### Database Management
