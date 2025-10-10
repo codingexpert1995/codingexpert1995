@@ -1,5 +1,5 @@
 
-# 👋 Hey, I'm [John Smith](https://johnsmith1995.netlify.app/) 👋
+#  Hey, I'm [Goran Loncar](https://codingexpert1995.netlify.app/) 
 
 I’m a full-stack developer with 7+ years of hands-on experience in building scalable web applications, eCommerce platforms, automation bots, and blockchain-based systems.
  I specialize in developing end-to-end solutions that are fast, secure, and maintainable — from UI/UX to backend APIs and infrastructure.
