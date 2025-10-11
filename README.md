@@ -15,11 +15,6 @@ Just give me a chance to work with you. Trust me, if you hire me once, you will 
 Looking forward to a long term relationship.
 Best Regards 
 
-![Discord](https://skillicons.dev/icons?i=discord)
-![Instagram](https://skillicons.dev/icons?i=instagram)
-![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)
-![LinkedIn](https://skillicons.dev/icons?i=linkedin)
-
 ## Tech Stack
 
 ![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css,md)
@@ -87,7 +82,7 @@ Best Regards
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=codingexpert1995&show_icons=true&theme=dark" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/?username=codingexpert1995&layout=compact&theme=dark" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingexpert1995&layout=compact&theme=dark" height="160" />
 </div>
 
 <div align="center">
