@@ -1,6 +1,8 @@
 
 #  Hey, I'm [Goran Loncar](https://codingexpert1995.netlify.app/) 
 
+<img align="right" alt="Coding" width="300" height="230" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 I’m a full-stack developer with 7+ years of hands-on experience in building scalable web applications, eCommerce platforms, automation bots, and blockchain-based systems.
  I specialize in developing end-to-end solutions that are fast, secure, and maintainable — from UI/UX to backend APIs and infrastructure.
 I've worked extensively with modern JavaScript/TypeScript stacks, including React, Next.js, Node.js, and Express. 
@@ -85,7 +87,7 @@ Best Regards
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=codingexpert1995&show_icons=true&theme=dark" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingexpert1995&layout=compact&theme=dark" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/?username=codingexpert1995&layout=compact&theme=dark" height="160" />
 </div>
 
 <div align="center">
