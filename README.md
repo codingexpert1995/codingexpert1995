@@ -81,7 +81,7 @@ Best Regards
 </div>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingexpert1995&layout=compact&theme=dark" height="160" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codingexpert1995&theme=dark" height="160" />
 <img src="https://github-readme-stats.vercel.app/api?username=codingexpert1995&show_icons=true&theme=dark" height="160" />
 </div>
 
