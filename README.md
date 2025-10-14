@@ -25,55 +25,6 @@ Best Regards
 
 ![Tools & Platforms](https://skillicons.dev/icons?i=vscode,figma,ps,linux,vercel,netlify,arduino,git)
 
-## My Projects
-
-<table>
-  <tr>
-    <td width="60">
-      <img src="https://ziphive.js.org/web-app-manifest-512x512.png" width="48" />
-    </td>
-    <td>
-      <b>Zip Hive</b><br/>
-      Visualize and generate file structures from plain text input
-      <br/>
-      <a href="https://ziphive.js.org">Website</a>・<a href="https://discord.com/invite/x9EMPXCdSP">Discord</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="60">
-      <img src="https://electra-bot.vercel.app/logo.png" width="48" />
-    </td>
-    <td>
-      <b>Electra</b><br/>
-      An advanced messages tracking discord bot
-      <br/>
-      <a href="https://electra-bot.vercel.app/">Website</a>・<a href="https://discord.com/application-directory/923925375657082931">Invite</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="60">
-      <img src="https://darshan.is-a.dev/media/codeday.jpeg" width="48" />
-    </td>
-    <td>
-      <b>AstroFit</b><br/>
-      A fitness app for astronauts
-      <br/>
-      <a href="https://codeday.sh/astrofit">Showcase</a>・<a href="https://github.com/TheMadHau5/AstroKit">GitHub</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="60">
-      <img src="https://darshan.is-a.dev/media/discord_debug.webp" width="48" />
-    </td>
-    <td>
-      <b>discord-debug</b><br/>
-      A simple and efficient discord.js debugging tool
-      <br/>
-      <a href="https://npmjs.com/package/discord-debug">npm</a>・<a href="https://lxrnz.gitbook.io/discord-debug">Docs</a>
-    </td>
-  </tr>
-</table>
-
 ## GitHub Stats
 
 <div align="center">
