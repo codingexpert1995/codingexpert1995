@@ -1,5 +1,5 @@
 
-#  Hey, I'm [Goran Loncar](https://codingexpert1995.netlify.app/) 
+#  Hi, I'm [Goran Loncar](https://codingexpert1995.netlify.app/) 
 
 <img align="right" alt="Coding" width="300" height="230" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -39,12 +39,6 @@ Best Regards
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=codingexpert1995&theme=dark" />
 </div>
-
-### Database Management
-<br />
-
-### Blockchain & Smart Contract
-<br />
 
 </div>
 
