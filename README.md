@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="300" height="230" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I’m a full-stack developer with 7+ years of hands-on experience in building scalable web applications, eCommerce platforms, automation bots, and blockchain-based systems.
+I’m a full-stack developer with 8+ years of hands-on experience in building scalable web applications, eCommerce platforms, automation bots, and blockchain-based systems.
  I specialize in developing end-to-end solutions that are fast, secure, and maintainable — from UI/UX to backend APIs and infrastructure.
 I've worked extensively with modern JavaScript/TypeScript stacks, including React, Next.js, Node.js, and Express. 
 On the backend, I build RESTful and GraphQL services, design scalable architectures, and deploy to cloud platforms like AWS, Vercel, and Dockerized environments.
